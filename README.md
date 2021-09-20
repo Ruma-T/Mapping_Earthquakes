@@ -7,14 +7,18 @@ First, added tectonic plate data using d3.json(), and then we added the data usi
 GeoJSON/PB2002_boundaries.json from github resources
 
 ### Results: 
- .Created maps using Leaflet that plots all of the earthquakes. 
 
- .The data markers reflect the magnitude of the earthquake by their size and and depth of the earth quake by color.
+Link to the page: https://ruma-t.github.io/Mapping_Earthquakes/
+
+.Created maps using Leaflet that plots all of the earthquakes. 
+
+ .Markers reflect the magnitude of the earthquake by their size and and depth of eartquake by color.
  
- .Earthquakes with higher magnitudes appear larger and earthquakes with greater depth should appear darker in color
-  Popups that provide additional information about the earthquake were included when a marker is clicked
+ .Higher magnitudes appear larger and greater depth appear darker in color.
+ 
+ .Popups provide additional information about the earthquake .
 
- .A legend was created to provide context for the map data
+ .A legend was created to provide context for the map.
  
  
 ![png_mod133](https://github.com/Ruma-T/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/mod133.PNG)
