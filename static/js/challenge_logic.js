@@ -211,4 +211,5 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
   });
 
   // Add the tectonic layer group to the map.
-  tectonicP
+  tectonicPlates.addTo(map);
+});
