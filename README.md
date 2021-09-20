@@ -4,11 +4,11 @@ We are creating a map of earthquake data in relation to the tectonic plates’ l
 First, added tectonic plate data using d3.json(), and then we added the data using the geoJSON() layer, set the tectonic plate LineString data to stand out on the map, and finally added the tectonic plate data to the overlay object with the earthquake data.
 
 ### Datasource
-GeoJSON/PB2002_boundaries.json from github resources
+https://github.com/fraxen/tectonicplates
 
 ### Results: 
 
-Link to the page: https://ruma-t.github.io/Mapping_Earthquakes/
+Link to the page created : https://ruma-t.github.io/Mapping_Earthquakes/
 
 .Created maps using Leaflet that plots all of the earthquakes. 
 
